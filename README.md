@@ -12,7 +12,7 @@ My skills include complex analysis, mapping requirement specifications, understa
 • Cross-Functional Experience in Software Engineering, Software Development, Managment teams, Cloud Computing.
 • Good relationship skills with users (I like to think that they are one of the main parts of the software development process).
 
-I'm specilist in full stack web development, after years working with PHP and Angular, I decided to change to NodeJS and React in 2020.
+I'm specilist in full stack web development, after years working with PHP and Angular, I decided to change my stack to NodeJS and React in 2019.
 I’m learning everyday, everything has something to tech us.
 
 https://www.linkedin.com/in/willian-barbosa-7755a097/
