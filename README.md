@@ -1,18 +1,11 @@
 👋 Hi, I’m @willianrbarbosa
 
-I'm passionate about software development, I chose this profession ten years ago, without knowing exactly how it works, and I fell in love, mainly with full-stack web development.
-I love to use the power of technology to give to the user the ability to improve the process, optimize and speed up their daily activities, and I'm crazy about UX.
+I am a seasoned professional with 12 years of experience working as a Full Stack Developer, proficient in modern technology stacks such as Node.js, React, Angular, PHP, and SQL. My expertise also extends to cloud platforms, including AWS, where I have delivered robust, scalable solutions.
 
-My skills include complex analysis, mapping requirement specifications, understanding the real process and turn it into a very good software.
+Throughout my career, I have contributed to a wide range of industries, including ERPs, education, factories, WMS systems, healthcare, and sports. This diverse experience has given me valuable insights into crafting tailored solutions that address unique business challenges.
 
-** CORE COMPETENCIES AND SPECIALTIES **
-• 10 years of diverse Software Development and Management experience
-• Bachelor's Degree in Information Systems
-• Technical course in IT
-• Cross-Functional Experience in Software Engineering, Software Development, Managment teams, Cloud Computing.
-• Good relationship skills with users (I like to think that they are one of the main parts of the software development process).
+In addition to my development skills, I have a solid foundation in Agile Methodologies and Cybersecurity, ensuring systems are secure by design and the delivery process accurate. My strong knowledge of Algorithmic Complexity and Data Structures has been critical in optimizing performance and building efficient applications.
 
-I'm specilist in full stack web development, after years working with PHP and Angular, I decided to change my stack to NodeJS and React in 2019.
-I’m learning everyday, everything has something to tech us.
+Passionate about excellence in my work, I am dedicated to staying on the cutting edge of technology and contributing to impactful projects, being a key player. With my multifaceted skill set and industry experience, I bring a proactive and innovative approach to problem-solving.
 
 https://www.linkedin.com/in/willian-barbosa-7755a097/
